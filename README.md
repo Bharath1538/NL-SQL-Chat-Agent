@@ -23,7 +23,7 @@ This project is developed to simplify database interaction in enterprise environ
 
   * LangChain (LangGraph, Chains, Memory)
   * OpenAI / Ollama / Groq (LLMs)
-  * FAISS / Chroma (Vector Database)
+  * FAISS / Qdrant (Vector Database)
 * **Authentication**: JWT-based secure auth
 * **Programming Languages**: TypeScript, Python
 
