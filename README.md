@@ -30,7 +30,7 @@ This project is developed to simplify database interaction in enterprise environ
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/nl-sql-agent-rbac.git
+git clone https://github.com/Bharath1538/nl-sql-agent-rbac.git
 cd nl-sql-agent-rbac
 ```
 
@@ -62,9 +62,5 @@ cd nl-sql-agent-rbac
 5. **Natural Query Execution**:
 
    * Enter a question like “Show all pending tasks for testers” — the system processes, sanitizes, generates SQL, and fetches results with explanation.
-
-6. **Follow-up Queries**:
-
-   * Conversation memory enables contextual understanding of multi-turn interactions.
 
 
